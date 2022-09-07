@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jcotoBan
-- 👀 I’m interested in ... anything
-- 🌱 I’m currently learning everything
+- 👀 I’m interested in ... devops/k8s/software engineering
+- 🌱 I’m currently learning k8s/cloud/software engineering
 - 💞️ I’m looking to collaborate on ... anything
 - 📫 How to reach me ... 
 
