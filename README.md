@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Coto
 
 
-[![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=jcotoBan)](https://github.com/jcotoBan/github-readme-profile)
+![Juan Coto GitHub stats](https://github-readme-stats.vercel.app/api?username=jcotoBan&show_icons=true&theme=radical)
 
 
